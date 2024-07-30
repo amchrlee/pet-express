@@ -34,6 +34,9 @@ export default {
         "white": "#ffffff",
         "black": "#000000"
       },
+      backgroundImage: {
+        'hero': "url('assets/images/hero-banner.jpg')",
+      },
       screens: {
         "wide": "1440px"
       }
