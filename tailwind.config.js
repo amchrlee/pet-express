@@ -17,6 +17,11 @@ export default {
       '8xl': ['96px', '106px']
     },
     extend: {
+      fontFamily: {
+        bangers: ['Bangers', 'cursive'],
+        carterOne: ['Carter One', 'cursive'],
+        nunitoSans: ['Nunito Sans', 'sans-serif'],
+      },
       colors: {
         "yellow-orange": "#f8a62a",
         "portland-orange": "#ed6335",
